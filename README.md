@@ -1,4 +1,4 @@
-<h1> Aspect Oriented Programming </h1>
+<h1> ASPECT ORIENTED PROGRAMMING </h1>
 
 <p> AOP kullaniminin temel amaci logging' caching ve transactiong gibi kesisen kaygilarin (cross cutting concerns) <br>
 veya fonksiyonel olmayan gereksinimlerin yonetimidir. Proxy ya da Decorator pattern gibi yapilari kullanacak kesisen <br>
@@ -20,3 +20,10 @@ endiselerin guvenle yonetildigi moduler yapilar olusturmayi saglar.
 <img src="https://www.perfomatix.com/wp-content/uploads/2019/07/AOP-Blog-min.jpg" width="600"> <br>
 <img src="https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/3/6/36b6604fbecc39475cc47e7d072ac33907fada90a3d3523fc19a0822573f1dc7/aspect-oriented-programming-mc-slide2.png" width="600">
 </p>
+
+
+<h2>Proxy</h2>
+<p>Istemcinin nesne talep etmesi durumunda gercek nesne ile istemci arasina giren yapi proxy dir.<br>
+  Burada istemci gercek nesne yerine proxy nesne ile muhattap olmus oluyor.
+</p>
+<img src="https://miro.medium.com/v2/resize:fit:1240/1*rKCOCyxJHYjkfo_2iDhQKg.jpeg" width="600"> <br>
