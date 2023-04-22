@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2FN/j5/414GrCjha6htBo3y49Nkx0zyf/KlxkCHiCqo7suJzwjQml2hi7lc6Mxj7W9uEcDgfqZOQ9ABFT/s6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\AspectOrientedProgramming\\CastleDynamicProxy\\CastleDynamicProxyApp\\CastleDynamicProxyApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
