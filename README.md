@@ -14,3 +14,9 @@ endiselerin guvenle yonetildigi moduler yapilar olusturmayi saglar.
 <li>Kod tekrarlarini azaltir (reduce reperetion)</li>
 <li>Test sureclerini kolaylastirir (easier to testing)</li>
 </ol>
+
+
+<p>
+<img src="https://www.perfomatix.com/wp-content/uploads/2019/07/AOP-Blog-min.jpg" width="600"> <br>
+<img src="https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/3/6/36b6604fbecc39475cc47e7d072ac33907fada90a3d3523fc19a0822573f1dc7/aspect-oriented-programming-mc-slide2.png" width="600">
+</p>
