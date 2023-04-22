@@ -22,12 +22,14 @@ endiselerin guvenle yonetildigi moduler yapilar olusturmayi saglar.
 </p>
 
 
-<h2>Proxy</h2>
+<h2>PROXY</h2>
 <p>Istemcinin nesne talep etmesi durumunda gercek nesne ile istemci arasina giren yapi proxy dir.<br>
   Burada istemci gercek nesne yerine proxy nesne ile muhattap olmus oluyor.
 </p>
 <img src="https://miro.medium.com/v2/resize:fit:1240/1*rKCOCyxJHYjkfo_2iDhQKg.jpeg" width="600"> <br>
 
-<h2>Castle Dynamic Proxy</h2>
+<h2>CASTLE DYNAMIC PROXY</h2>
 Dotnet de calisma zamaninda (runtime) nesne olusturmayi saglayan bir teknolohidir.
 Nuget Package ====> Castle.Core
+
+<h2>INVOCATION</h2>
