@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "akY6oqKYvr+U5prCsl3AeW4HB1Ga4pkIflne3sQel2jKEU6vCCO8bUUqOUBy5E5iqxiQXiFnSDdtSbEwaPoniw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\AspectOrientedProgramming\\Invocation\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
