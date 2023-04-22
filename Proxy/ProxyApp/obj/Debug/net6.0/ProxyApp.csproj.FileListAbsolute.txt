@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\bin\Debug\net6.0\ProxyApp.exe
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\bin\Debug\net6.0\ProxyApp.deps.json
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\bin\Debug\net6.0\ProxyApp.runtimeconfig.json
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\bin\Debug\net6.0\ProxyApp.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\bin\Debug\net6.0\ProxyApp.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.AssemblyInfo.cs
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\refint\ProxyApp.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ProxyApp.genruntimeconfig.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\Proxy\ProxyApp\obj\Debug\net6.0\ref\ProxyApp.dll
