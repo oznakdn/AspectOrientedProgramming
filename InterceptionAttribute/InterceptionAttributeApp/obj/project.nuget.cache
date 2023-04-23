@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "quXyEYYgDd7EHOjsyr0zmWNFA0mbEgAYS0EcZKnktgqeaVrXwZOq7Tj0ElyTScf9nGg0bbOCBBbQviiKR8d/Vw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\AspectOrientedProgramming\\InterceptionAttribute\\InterceptionAttributeApp\\InterceptionAttributeApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\autofac\\7.0.1\\autofac.7.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.1\\autofac.extras.dynamicproxy.6.0.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
