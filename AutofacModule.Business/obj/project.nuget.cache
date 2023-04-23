@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/toyct27VSPp76+Fl1T3JoNERh9nkAZwidiwJQHiVaEllMdgRoymaFMZmv2Ik5D8IplErzyCvM1Qi8DYttb18Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\AspectOrientedProgramming\\AutofacModule.Business\\AutofacModule.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

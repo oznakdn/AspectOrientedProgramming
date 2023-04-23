@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\bin\Debug\net6.0\AutofacModule.Entity.deps.json
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\bin\Debug\net6.0\AutofacModule.Entity.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\bin\Debug\net6.0\AutofacModule.Entity.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.AssemblyInfo.cs
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\refint\AutofacModule.Entity.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\AutofacModule.Entity.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Entity\obj\Debug\net6.0\ref\AutofacModule.Entity.dll

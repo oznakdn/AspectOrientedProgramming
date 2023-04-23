@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\AutofacModule.Business.deps.json
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\AutofacModule.Business.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\AutofacModule.Business.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\AutofacModule.Entity.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\AutofacModule.Entity.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.AssemblyInfo.cs
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.csproj.CopyComplete
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\refint\AutofacModule.Business.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\AutofacModule.Business.pdb
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\obj\Debug\net6.0\ref\AutofacModule.Business.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\Autofac.Core.dll
+C:\Users\USER\Desktop\AspectOrientedProgramming\AutofacModule.Business\bin\Debug\net6.0\Autofac.Core.pdb
