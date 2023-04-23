@@ -32,4 +32,3 @@ endiselerin guvenle yonetildigi moduler yapilar olusturmayi saglar.
 Dotnet de calisma zamaninda (runtime) nesne olusturmayi saglayan bir teknolohidir.
 Nuget Package ====> Castle.Core
 
-<h2>INVOCATION</h2>
